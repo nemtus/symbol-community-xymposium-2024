@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository has moved to the [`nemtus/apps`](https://github.com/nemtus/apps) monorepo.**
+> The XYMPOSIUM 2024 site now lives at
+> [`apps/xymposium-lp-2024`](https://github.com/nemtus/apps/tree/main/apps/xymposium-lp-2024)
+> (full git history preserved) and deploys on Cloudflare Workers at
+> [xymposium-2024.nemtus.com](https://xymposium-2024.nemtus.com/). This repository is **archived
+> (read-only)** and no longer maintained.
+
 # Symbol/NEM Community Xymposium 2024
 
 Symbol/NEM Community Xymposium のイベント告知・登録サイト。Next.js (App Router) 製で、**Cloudflare Workers** 上で公開します。
